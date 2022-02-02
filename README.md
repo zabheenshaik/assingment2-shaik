@@ -27,3 +27,20 @@ Economical on pocket and a great deal. ***Its is one of my favourites***. Domino
     
 About Me
     https://github.com/zabheenshaik/assingment2-shaik/blob/main/Aboutme.md
+
+## Sports
+Table express the  sports data activity cost effectiveness data which was held on different location in our country and in the year-2020. Data indicates detailed cost analysis basket ball event held on area cost, is higher than badminton sports event, cricket is one of the best game in the world.
+
+| SPORTS/ACTIVITY | LOCATION | AMOUNT |
+| ------------- | ------------- | -------- |
+| BASKETBALL | AMERICA | $4500 |
+| BADMINTON | AUSTRALIA | $3200 |
+| CRICKET | INDIA | $5500 |
+
+
+## Qutoes
+> You have to dream before your dreams can come true 
+*- APJ Abdul Kalam
+> "Never let the fear of striking out keep you from playing the game"
+*- Bade Ruth
+ 
