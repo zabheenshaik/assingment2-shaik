@@ -40,7 +40,8 @@ Table express the  sports data activity cost effectiveness data which was held o
 
 ## Qutoes
 > You have to dream before your dreams can come true 
-*- APJ Abdul Kalam
-> "Never let the fear of striking out keep you from playing the game"
-*- Bade Ruth
+*- APJ Abdul Kalam*
+
+> Never let the fear of striking out keep you from playing the game
+*- Bade Ruth*
  
