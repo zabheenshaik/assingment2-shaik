@@ -16,12 +16,15 @@ Gannavaram Airport is the nearest airport
 <li>Pass by the gas station (on the left)</li>
 <li>Make a U-turn Pass by the gas station (on the right)Destination will be on the left</li></ol>
 
-<h1>UNORDERED LIST</h1>
-<ul> ---Chicken sweetcorn Pizza
-    ---Chicken Pizza
-    ---wings Pizza
-    ---veggies Pizza
-    ---Stuffed Crush
-    ---choco lava
-    ---tastermaker</ul>
+<h3>UNORDERED LIST</h3>
+<ul>
+     ---Chicken sweetcorn Pizza
+     ---Chicken Pizza
+     ---wings Pizza
+     ---veggies Pizza
+     ---Stuffed Crush
+     ---choco lava
+     ---tastermaker
+    
+</ul>
 </section>
