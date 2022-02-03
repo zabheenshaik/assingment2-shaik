@@ -5,7 +5,7 @@ Economical on pocket and a great deal. ***Its is one of my favourites***. Domino
 
 
 
-## ORDERED LIST 
+## Route to Airport
 1.Gannavaram Airport is the nearest airport  
 2.Head southwest on NH16 toward Old Airport Rd/Vijayawada Airport Rd  
 3.Pass by Sai Baba Temple (on the left in 11.6 km) 
@@ -16,7 +16,7 @@ Economical on pocket and a great deal. ***Its is one of my favourites***. Domino
 8.Make a U-turn Pass by the gas station (on the right)Destination will be on the left  
 
 
-### UNORDERED LIST 
+### Food Iteams 
 * Chicken sweetcorn Pizza
 * Chicken Pizza
 * wings Pizza
@@ -51,9 +51,9 @@ Table express the  sports data activity cost effectiveness data which was held o
 A flow graph is a form of digraph associated with a set of linear algebraic or differential equations
 A signal flow graph is a network of nodes (or points) interconnected by directed branches, representing a set of linear algebraic equations. The nodes in a flow graph are used to represent the variables, or parameters, and the connecting branches represent the coefficients relating these variables to one another. The flow graph is associated with a number of simple rules which enable every possible solution to be obtained.
 
-For more references : https://en.wikipedia.org/wiki/Flow_graph_(mathematics)
 
-vector<int> parent, rank;
+```ruby
+ vector<int> parent, rank;
 
 void make_set(int v) {
     parent[v] = v;
@@ -104,6 +104,7 @@ for (Edge e : edges) {
         union_sets(e.u, e.v);
     }
 }
-
+```
+>For more references : https://en.wikipedia.org/wiki/Flow_graph_(mathematics)
 
  
