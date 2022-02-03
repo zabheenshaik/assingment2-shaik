@@ -51,6 +51,7 @@ Table express the  sports data activity cost effectiveness data which was held o
 A flow graph is a form of digraph associated with a set of linear algebraic or differential equations
 A signal flow graph is a network of nodes (or points) interconnected by directed branches, representing a set of linear algebraic equations. The nodes in a flow graph are used to represent the variables, or parameters, and the connecting branches represent the coefficients relating these variables to one another. The flow graph is associated with a number of simple rules which enable every possible solution to be obtained.
 
+>For more references : https://en.wikipedia.org/wiki/Flow_graph_(mathematics)
 
 ```ruby
  vector<int> parent, rank;
@@ -105,6 +106,6 @@ for (Edge e : edges) {
     }
 }
 ```
->For more references : https://en.wikipedia.org/wiki/Flow_graph_(mathematics)
+
 
 >Competitive Programming Algorithim https://cp-algorithms.com/graph/mst_kruskal_with_dsu.html
